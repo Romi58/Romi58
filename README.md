@@ -1,43 +1,39 @@
-# Hi there! 👋 I'm [Your Name]
 
-![Animated Welcome Banner](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+# Hi, I'm [Romaisa Hanif]! 👋
 
-I'm a **Full-Stack Web Developer**, **UI/UX Designer**, **Web & App Designer**, and **Graphics Designer** with a passion for crafting visually stunning and functional user experiences. I specialize in creating intuitive, user-friendly designs and building efficient, scalable web and mobile applications.
+![Welcome Animation](https://media.giphy.com/media/1yk9K8IB35wbMX1jsN/giphy.gif)
 
----
-
-## 🛠️ **My Skill Set**
-
-### 💻 **Full-Stack Web Development**
-- **Languages**: JavaScript, TypeScript, Python, HTML5, CSS3
-- **Frameworks & Libraries**: React, Next.js, Node.js, Express, Django, Flask
-- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase
-- **Tools**: Git, Docker, Kubernetes
-
-### 🎨 **UI/UX Design**
-- **Tools**: Figma, Sketch, Adobe XD
-- **Expertise**: Wireframing, Prototyping, User Research, A/B Testing
-
-### 🌐 **Web & App Design**
-- **Technologies**: Responsive Design, Progressive Web Apps (PWA), Mobile-first Development
-- **Tools**: Tailwind CSS, Bootstrap
-
-### 🎨 **Graphics Design**
-- **Tools**: Adobe Photoshop, Illustrator, After Effects
-- **Skills**: Branding, Logo Design, Motion Graphics
+I'm a **Full-Stack Developer**, **UI/UX Designer**, **Web & App Designer**, and **Graphics Designer** with a passion for creating amazing digital experiences.
 
 ---
 
-## 📈 **Stats**
+## 🛠️ **Skills** 
+Here are some of the tools and technologies I work with:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+| **Technology** | **Animation** |
+| --- | --- |
+| ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) | ![HTML GIF](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif) |
+| ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) | ![CSS Animation](https://media.giphy.com/media/3o6MbaqBB0GEP4tZKw/giphy.gif) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) | ![JS Animation](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif) |
+| ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) | ![React Animation](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif) |
+| ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js) | ![Node Animation](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif) |
+| ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) | ![Python Animation](https://media.giphy.com/media/jn0lZWNYf4qXnw1a7O/giphy.gif) |
+
+---
+
+## 🔥 **My GitHub Stats** 
+Here’s a dynamic representation of my GitHub contributions and stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
 
 ---
 
 ## 📫 **Let's Connect!**
-- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
 
-![Animated Footer](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+- **LinkedIn**: [https://www.linkedin.com/in/romaisa-hanif/)
+- **Email**: romaisa.hanif23@gmail.com
 
+![Goodbye Animation](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
